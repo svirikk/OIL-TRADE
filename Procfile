@@ -1,0 +1,1 @@
+worker: python clusdt_bot.py
